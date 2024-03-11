@@ -24,7 +24,7 @@
 - [ALFIE, 2023 (D.O.P/ Colorist)](https://www.youtube.com/watch?v=_xNBjKFwlMQ&t=177s)
 - [THE BAT TREE, 2022 (Director/ VFX Artist)](https://www.youtube.com/watch?v=ajWSle3HDn0&t=584s)
 - [MELTING POT, 2021 (Sound Designer/ Gaffer)](https://www.youtube.com/watch?v=rmFFzdRv9FU)
-- [DRIVE, 2017 (Scriptwriter/ Actor](https://www.youtube.com/watch?v=ugT-k9omNZI)
+- [DRIVE, 2017 (Scriptwriter/ Actor)](https://www.youtube.com/watch?v=ugT-k9omNZI)
 
 <h2> 🤳 Connect with me:</h2>
 
