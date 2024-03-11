@@ -1,16 +1,16 @@
-<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>/ <a href="https://www.youtube.com/">Filmmaker</a></h1>
+![image](https://github.com/Phireigns/phireigns/assets/162695658/93383b8a-d371-4e94-9562-b18be0f80973)<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>/ <a href="https://www.youtube.com/">Filmmaker</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python - INCOMPLETE](https://github.com/phireigns)
 - <b>Web Apps (HTML, CSS, JS, React, NodeJS)</b>
   - [Kinetic Typography WebApp](https://github.com/Phireigns/KineticTypographyWebsite)
 - <b>Micro controllers & Hardware (Arduino, C++)</b>
   - [Eng & Math Fun Game](https://github.com/Phireigns/Eng-MathFun-Game)
   - [Auto Sanitizer Sensor](https://github.com/Phireigns/Auto-Sanitizer-Sensor)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/phireigns)
 
 <h2>📺 Filmography</h2>
 
