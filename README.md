@@ -9,6 +9,8 @@
 - <b>Micro controllers & Hardware (Arduino, C++)</b>
   - [Eng & Math Fun Game](https://github.com/Phireigns/Eng-MathFun-Game)
   - [Auto Sanitizer Sensor](https://github.com/Phireigns/Auto-Sanitizer-Sensor)
+- <b>UX/ UI Design & Prototypes (Figma, Illustrator, Photoshop)</b>
+  - [Restaurant Guide App](https://github.com/Phireigns/Eng-MathFun-Game)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/phireigns)
 
