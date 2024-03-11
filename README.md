@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>, <a href="https://www.youtube.com/">Filmmaker</a>,</h1>
+<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>, <a href="https://www.youtube.com/">Filmmaker</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
