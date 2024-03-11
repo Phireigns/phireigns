@@ -1,4 +1,4 @@
-![image](https://github.com/Phireigns/phireigns/assets/162695658/93383b8a-d371-4e94-9562-b18be0f80973)<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>/ <a href="https://www.youtube.com/">Filmmaker</a></h1>
+<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>/ <a href="https://www.youtube.com/">Filmmaker</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -14,7 +14,7 @@
 
 <h2>📺 Filmography</h2>
 
-- [BOJU, 2023 (Director/ Editor)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [BOJU, 2023 (Director/ Editor)](https://youtu.be/sUESl7hGQrI)
 - [ALFIE, 2023 (D.O.P/ Colorist)](https://www.youtube.com/watch?v=_xNBjKFwlMQ&t=177s)
 - [THE BAT TREE, 2022 (Director/ VFX Artist)](https://www.youtube.com/watch?v=ajWSle3HDn0&t=584s)
 - [MELTING POT, 2021 (Sound Designer/ Gaffer)](https://www.youtube.com/watch?v=rmFFzdRv9FU)
@@ -23,17 +23,14 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/@phirens/
+[instagram]: https://www.instagram.com/phirensofficial/
+[linkedin]: https://www.linkedin.com/in/phirens-rai-2b065917a/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
