@@ -10,7 +10,7 @@
   - [Eng & Math Fun Game](https://github.com/Phireigns/Eng-MathFun-Game)
   - [Auto Sanitizer Sensor](https://github.com/Phireigns/Auto-Sanitizer-Sensor)
 - <b>UX/ UI Design & Prototypes (Figma, Illustrator, Photoshop)</b>
-  - [Restaurant Guide App](https://github.com/Phireigns/Eng-MathFun-Game)
+  - [Restaurant Guide App](https://github.com/Phireigns/Restaurant-Guide-App)
   - [Book Listings Website](https://github.com/Phireigns/High-Fidelity-Book-Website)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/phireigns)
