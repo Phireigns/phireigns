@@ -13,6 +13,8 @@
   - [Restaurant Guide App](https://github.com/Phireigns/Eng-MathFun-Game)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/phireigns)
+- <b>Mini Projects</b>
+  - [Basic Arithmetic Calculator](https://github.com/Phireigns/KineticTypographyWebsite)
 
 <h2>📺 Filmography</h2>
 
