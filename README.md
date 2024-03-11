@@ -15,7 +15,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/phireigns)
 - <b>Mini Projects</b>
-  - [Basic Arithmetic Calculator](https://github.com/Phireigns/KineticTypographyWebsite)
+  - [Basic Arithmetic Calculator](https://github.com/Phireigns/Basic-Arithmetic-Calculator)
 
 <h2>📺 Filmography</h2>
 
