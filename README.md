@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>, <a href="https://www.youtube.com/">Filmmaker</a></h1>
+<h1>Hi, I'm Phireigns! <br/><a href="https://github.com/phireigns">Programmer</a>/ <a href="https://www.youtube.com/">Filmmaker</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -18,13 +18,13 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Filmography</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [BOJU, 2023 (Director/ Editor)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [ALFIE, 2023 (D.O.P/ Colorist)](https://www.youtube.com/watch?v=_xNBjKFwlMQ&t=177s)
+- [THE BAT TREE, 2022 (Director/ VFX Artist)](https://www.youtube.com/watch?v=ajWSle3HDn0&t=584s)
+- [MELTING POT, 2021 (Sound Designer/ Gaffer)](https://www.youtube.com/watch?v=rmFFzdRv9FU)
+- [DRIVE, 2017 (Scriptwriter/ Actor](https://www.youtube.com/watch?v=ugT-k9omNZI)
 
 <h2> 🤳 Connect with me:</h2>
 
