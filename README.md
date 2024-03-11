@@ -8,6 +8,7 @@
   - [Kinetic Typography WebApp](https://github.com/Phireigns/KineticTypographyWebsite)
 - <b>Micro controllers & Hardware (Arduino, C++)</b>
   - [Eng & Math Fun Game](https://github.com/Phireigns/Eng-MathFun-Game)
+  - [Auto Sanitizer Sensor](https://github.com/Phireigns/Auto-Sanitizer-Sensor)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
