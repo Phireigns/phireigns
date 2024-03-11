@@ -6,6 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Web Apps (HTML, CSS, JS, React, NodeJS)</b>
   - [Kinetic Typography WebApp](https://github.com/Phireigns/KineticTypographyWebsite)
+- <b>Micro controllers & Hardware (Arduino, C++)</b>
+  - [Eng & Math Fun Game](https://github.com/Phireigns/Eng-MathFun-Game)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
