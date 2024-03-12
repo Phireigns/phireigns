@@ -4,17 +4,17 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciticing Data Structure & Algorithm](https://github.com/phireigns)
+- <b>Python</b>
+  - [Languaid App (Machine Learning, OpenCV, Mediapipe package)](https://github.com/Phireigns/Languaid)
 - <b>Web Apps (HTML, CSS, JS, React, NodeJS)</b>
   - [Kinetic Typography WebApp](https://github.com/Phireigns/KineticTypographyWebsite)
   - [Stand Stage (VPP) Waterfall Model](https://github.com/Phireigns/StandStage)
-- <b>Micro controllers & Hardware (Arduino, C++)</b>
-  - [Eng & Math Fun Game](https://github.com/Phireigns/Eng-MathFun-Game)
-  - [Auto Sanitizer Sensor](https://github.com/Phireigns/Auto-Sanitizer-Sensor)
 - <b>UX/ UI Design & Prototypes (Figma, Illustrator, Photoshop)</b>
   - [Restaurant Guide App](https://github.com/Phireigns/Restaurant-Guide-App)
   - [Book Listings Website](https://github.com/Phireigns/High-Fidelity-Book-Website)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/phireigns)
+- <b>Micro controllers & Hardware (Arduino, C++)</b>
+  - [Eng & Math Fun Game](https://github.com/Phireigns/Eng-MathFun-Game)
+  - [Auto Sanitizer Sensor](https://github.com/Phireigns/Auto-Sanitizer-Sensor)
 - <b>Mini Projects</b>
   - [Basic Arithmetic Calculator (HTML)](https://github.com/Phireigns/Basic-Arithmetic-Calculator)
   - [Basic Tic Tac Toe (C++)](https://github.com/Phireigns/Tic-Tac-Toe)
