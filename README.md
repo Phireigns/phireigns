@@ -17,6 +17,7 @@
 - <b>Mini Projects</b>
   - [Basic Arithmetic Calculator (HTML)](https://github.com/Phireigns/Basic-Arithmetic-Calculator)
   - [Basic Tic Tac Toe (C++)](https://github.com/Phireigns/Tic-Tac-Toe)
+  - [ER Model & Relational Model (MySQL](https://github.com/Phireigns/ER-Model-Relational-Model-SQL)
 
 <h2>📺 Filmography</h2>
 
