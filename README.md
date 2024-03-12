@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python - INCOMPLETE](https://github.com/phireigns)
+- <b>Data Structures and Algorithms Practice</b>
+  - [Praciticing Data Structure & Algorithm](https://github.com/phireigns)
 - <b>Web Apps (HTML, CSS, JS, React, NodeJS)</b>
   - [Kinetic Typography WebApp](https://github.com/Phireigns/KineticTypographyWebsite)
 - <b>Micro controllers & Hardware (Arduino, C++)</b>
@@ -17,9 +17,9 @@
 - <b>Mini Projects</b>
   - [Basic Arithmetic Calculator (HTML)](https://github.com/Phireigns/Basic-Arithmetic-Calculator)
   - [Basic Tic Tac Toe (C++)](https://github.com/Phireigns/Tic-Tac-Toe)
-  - [ER Model & Relational Model (MySQL](https://github.com/Phireigns/ER-Model-Relational-Model-SQL)
+  - [ER Model & Relational Model (MySQL)](https://github.com/Phireigns/ER-Model-Relational-Model-SQL)
 
-<h2>📺 Filmography</h2>
+<h2>📺 Filmography:</h2>
 
 - [BOJU, 2023 (Director/ Editor)](https://youtu.be/sUESl7hGQrI)
 - [ALFIE, 2023 (D.O.P/ Colorist)](https://www.youtube.com/watch?v=_xNBjKFwlMQ&t=177s)
