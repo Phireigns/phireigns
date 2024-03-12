@@ -15,8 +15,8 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/phireigns)
 - <b>Mini Projects</b>
-  - [Basic Arithmetic Calculator](https://github.com/Phireigns/Basic-Arithmetic-Calculator)
-  - [Basic Tic Tac Toe](https://github.com/Phireigns/Tic-Tac-Toe)
+  - [Basic Arithmetic Calculator (HTML)](https://github.com/Phireigns/Basic-Arithmetic-Calculator)
+  - [Basic Tic Tac Toe (C++)](https://github.com/Phireigns/Tic-Tac-Toe)
 
 <h2>📺 Filmography</h2>
 
