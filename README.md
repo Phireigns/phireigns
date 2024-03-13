@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciticing Data Structure & Algorithm](https://github.com/phireigns)
+  - [Praciticing Data Structure & Algorithm](https://github.com/Phireigns/DS-and-Algorithm)
 - <b>Python</b>
   - [Languaid App (Machine Learning, OpenCV, Mediapipe package)](https://github.com/Phireigns/Languaid)
   - [FIFA Chemistry Link (Pycharm, JSON)](https://github.com/Phireigns/FIFAChemistryLink)
