@@ -6,6 +6,7 @@
   - [Praciticing Data Structure & Algorithm](https://github.com/phireigns)
 - <b>Python</b>
   - [Languaid App (Machine Learning, OpenCV, Mediapipe package)](https://github.com/Phireigns/Languaid)
+  - [FIFA Chemistry Link (Pycharm, JSON)](https://github.com/Phireigns/FIFAChemistryLink)
 - <b>Web Apps (HTML, CSS, JS, React, NodeJS)</b>
   - [Kinetic Typography WebApp](https://github.com/Phireigns/KineticTypographyWebsite)
   - [Stand Stage (VPP) Waterfall Model](https://github.com/Phireigns/StandStage)
