@@ -10,6 +10,7 @@
 - <b>Web Apps (HTML, CSS, JS, React, NodeJS)</b>
   - [Kinetic Typography WebApp](https://github.com/Phireigns/KineticTypographyWebsite)
   - [Stand Stage (VPP) Waterfall Model](https://github.com/Phireigns/StandStage)
+  - [CityU Copy Site](https://github.com/Phireigns/CityU-Site)
 - <b>UX/ UI Design & Prototypes (Figma, Illustrator, Photoshop)</b>
   - [Restaurant Guide App](https://github.com/Phireigns/Restaurant-Guide-App)
   - [Book Listings Website](https://github.com/Phireigns/High-Fidelity-Book-Website)
